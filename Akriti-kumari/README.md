@@ -6,26 +6,27 @@ I’m a second-year IT student who enjoys exploring technology, learning new ski
 
 Education
 
-- B.Tech in Information Technology (IT) — 2nd Year, AKGEC.
+* B.Tech in Information Technology (IT) — 2nd Year, AKGEC.
 
 Technical Skills
 
-- Languages: Python, C
-- Web: HTML, CSS
-- Currently Learning: Web Development
+* Languages: Python, C
+* Web: HTML, CSS
+* Currently Learning: Web Development
 
 Areas of Interest
 
-- Web Development
-- Artificial Intelligence & Machine Learning
+* Web Development
+* Artificial Intelligence \& Machine Learning
 
 Hobbies / Interests
 
-- Photography
-- Reading books
-- Travelling and exploring new places
+* Photography
+* Reading books
+* Travelling and exploring new places
 
 Goals
 
-- Improve my programming and problem-solving skills
-- Become confident in Web Development and build useful projects
+* Improve my programming and problem-solving skills
+* Become confident in Web Development and build useful projects
+
