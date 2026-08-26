@@ -1,4 +1,4 @@
-Hi, I'm Your Name
+Hi, I'm Tanvi
 About Me
 Hello! I am Tanvi, currently pursuing my B.Tech (2nd Year). I am passionate about core programming, learning new technologies, and building practical projects.
 
