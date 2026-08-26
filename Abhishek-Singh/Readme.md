@@ -1,15 +1,18 @@
 # Hi there, I'm Abhishek Kumar Singh! 
 
 ##  About Me
-I am an enthusiastic B.Tech student who loves exploring how technology works. I enjoy problem-solving and building projects that bridge creativity and functionality.
+* I am an enthusiastic B.Tech 2nd year student of IT branch, who loves exploring how technology works.
+* I enjoy problem-solving and building projects that bridge creativity and functionality.
+* My domain is frontend web development as i have interest in how the webpages works and interaction between human and computors.
 
 ##   Why Did You Choose B.Tech?
-I chose B.Tech out of a strong curiosity for technology and a desire to understand how modern applications are built. Engineering gives me the perfect platform to transform ideas into practical solutions and build a solid foundation for my future career.
+I chose B.Tech out of a strong curiosity for technology and a desire to understand how modern applications are built.
 
 ##   Hobbies
 * **Playing Cricket:** Nothing beats the thrill and teamwork of a good game on the field!
 * **Learning New Things:** Always eager to pick up new skills, explore interesting concepts, and stay curious.
-
+* **playing online games:** I plays the games but never addicted to these games.
+  
 ##   Interests
 * Strategic thinking and team dynamics through sports.
 * Keeping up with modern tech trends and continuous self-improvement.
@@ -21,8 +24,9 @@ I chose B.Tech out of a strong curiosity for technology and a desire to understa
 
 ##  Goals
 * **Technical Growth:** Enhance my software development and problem-solving skills during my time as an MLCOE Apprentice.
-* **Collaboration:** Master Git and GitHub workflows, contribute to team projects, and learn best practices from peers and mentors.
+* **Mentality development** enhance my brain power by solving  more and more problem. 
 * **Project Building:** Apply my learning to build practical, real-world applications.
 
 ##   One Fun Fact
-I can spend hours analyzing cricket match strategies and stats almost as deeply as I analyze code!
+* I can spend hours analyzing cricket match strategies and stats almost as deeply as I analyze code!
+  
