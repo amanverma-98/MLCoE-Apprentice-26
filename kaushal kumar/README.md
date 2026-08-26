@@ -4,7 +4,7 @@
 
 hello everyone I am Kaushal Kumar. I consider myself a strong advocate for strategic napping — because sometimes the best ideas come after a well-timed reset. Apart from this I am a full time movies/games enthusiast and a part time Productive Human.
 
-## why i chode b.tech.
+## why i chose b.tech.
 - I scored 91% in 10th and 12th board to keep my parents Happy ,but didn'tactually had an goal. I had an interest in Maths so I thought I should choose B.tech. so I could figure out my goals in those 4 years and even not then so I will continue with M.Tech. for one more year. 
 
 ## technical skills
